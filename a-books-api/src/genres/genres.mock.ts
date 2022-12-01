@@ -1,5 +1,5 @@
 import { Genre } from './genre.entity';
-export const books: Array<Genre> = [
+export const genres: Array<Genre> = [
   {
     id: 1,
     name: 'Infantil',
